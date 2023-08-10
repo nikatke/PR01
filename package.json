@@ -1,0 +1,15 @@
+{
+    "name": "nodejs-demo",
+    "version": "1.0.0",
+    "description": "nodejs demo",
+    "author": "Nisha",
+    "main": "app.js",
+    "keywords": [
+      "nodejs",
+      "bootstrap",
+      "express"
+    ],
+    "dependencies": {
+      "express": "^4.16.4"
+    }
+  }
